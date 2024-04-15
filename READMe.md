@@ -1,6 +1,3 @@
-# 💫 About Me:
-👋 ¡Hola! Soy Carlos Guillen, un apasionado desarrollador full stack web con experiencia en JavaScript, TypeScript, Node.js, MySQL, Express, Docker, CSS, HTML, y React. Me encanta enfrentar nuevos desafíos y estoy constantemente explorando nuevas tecnologías y herramientas para mejorar mis habilidades. Además, tengo experiencia en el uso de Git para el control de versiones y estoy familiarizado con herramientas como VSCode, Discord y Trello para la colaboración en equipo. ¡Estoy emocionado de contribuir y aprender en la comunidad de desarrollo!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-guillen-) 
